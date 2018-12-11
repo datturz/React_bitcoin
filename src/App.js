@@ -23,7 +23,7 @@ export default class App extends Component {
         <center>
           <div className="container-fluid">
             <div className="card">
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi_kpanR-he5UsdvnxQL7ua8Fm0FNGUM4LZ4df0Mt1ADlLXFzHpw" alt="ya" />
+              <img style={{ height: '250px' }} src="https://www.bitcoin.com/img/casino.svg" alt="ya" />
               <br />
               <div className="card-body">
                 <Link to="/bitcointoday"><button type="button" className="btn btn-warning" >Bitcoin Today</button></Link>
